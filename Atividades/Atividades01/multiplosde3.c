@@ -8,6 +8,6 @@ int main () {
             printf ("%d\n", -mult);
         }
     }
-    
+    //atividade01/arquivo02 esqueci de colocar na hora do commit, desculpa
     return 0;
 }
