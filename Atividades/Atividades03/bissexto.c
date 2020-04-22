@@ -31,5 +31,5 @@ int main(int argc, char const *argv[]){
         printf("\n%d Nao e bissexto!! \n", ano);
     }
 
-    return ;
+    return 0;
 }
