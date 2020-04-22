@@ -25,7 +25,7 @@ int main(int argc, char const *argv[]){
         printf("%d | %d\n",p, result);
         result = fibonacci(p);
     }
-    printf("\n");
+    printf("\n"); 
     
     return 0;
 }
