@@ -8,7 +8,7 @@ int i=0;
 char matricula[10]= {'\0'};
 char nome[30]= {'\0'};
 
-(arq = (fopen("C:\\Users\\dinib\\Desktop\\atividades\\ativi7\\aluno.txt", "w")));
+(arq = (fopen("C:\\Users\\patrick\\Desktop\\atividades\\ativi7\\aluno.txt", "w")));
 
 if (arq == NULL)
 {	

@@ -7,7 +7,7 @@ FILE *arq;
 char nome_e_matricula[40];
 //char matricula[10];
 
-if((arq = fopen("C:\\Users\\dinib\\Desktop\\atividades\\ativi7\\Aluno2.txt", "w+"))== NULL)
+if((arq = fopen("C:\\Users\\patrick\\Desktop\\atividades\\ativi7\\Aluno2.txt", "w+"))== NULL)
 {
 perror("Descricao do erro:");
 exit(1);

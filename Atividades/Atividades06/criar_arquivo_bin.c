@@ -4,7 +4,7 @@ int main(){
 
 FILE *arq;
 
-arq = fopen("C:\\Users\\dinib\\Desktop\\atividades\\ativi6\\dados.bin","rb");
+arq = fopen("C:\\Users\\patrick\\Desktop\\atividades\\ativi6\\dados.bin","rb");
 
 if (arq == NULL)
 {

@@ -8,7 +8,7 @@ int i;
 char nome[30], 
 matricula[10];
 
-arq = fopen("C:\\Users\\dinib\\Desktop\\atividades\\ativi8\\aluno.dat","w");
+arq = fopen("C:\\Users\\patrick\\Desktop\\atividades\\ativi8\\aluno.dat","w");
 	if (arq == NULL)
 {	
     fprintf(stderr, "Erro ao abrir o aluno.txt!");	return 1; 

@@ -10,7 +10,7 @@ char palavra[20];//para escrever no txt
 //t - modo texto
 //b - modo binario
 
-arq = fopen("C:\\Users\\dinib\\Desktop\\atividades\\ativi6\\dados.txt","r+b");
+arq = fopen("C:\\Users\\patrick\\Desktop\\atividades\\ativi6\\dados.txt","r+b");
 				
 if (arq == NULL)
 {
