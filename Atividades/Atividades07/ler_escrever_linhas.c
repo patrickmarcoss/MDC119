@@ -27,5 +27,6 @@ break;
 }}
 fclose(arq);
 
+
 return 0;
 }
