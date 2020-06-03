@@ -30,5 +30,6 @@ getchar();
 
 fclose(arq);
 
+
 exit (1);
 }
