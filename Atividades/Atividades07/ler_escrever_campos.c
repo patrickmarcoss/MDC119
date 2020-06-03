@@ -50,6 +50,7 @@ void main()
     }
 
     fclose(arq);
+    
 
     return;
 }
