@@ -45,5 +45,6 @@ fputc(matricula[i], arq);
 
 fclose(arq);
 
+
 return 1;
 }}
