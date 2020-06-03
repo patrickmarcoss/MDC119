@@ -20,5 +20,6 @@ getchar();
 
 fclose(arq);
 
+
 return 0;
 }
